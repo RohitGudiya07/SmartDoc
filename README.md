@@ -185,6 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Manohar</p>
+  <p>Made with ❤️ by our Team</p>
   <p>© 2025 Intelligent SmartDoc Chat Assistant</p>
 </div>
